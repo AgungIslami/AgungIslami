@@ -9,5 +9,5 @@ an informatics engineering student and study at Dinamika Bangsa University, Jamb
 <a href="https://flutter.dev/"><img align="left" alt="html" title="html" width="21px" src="https://branditechture.agency/brand-logos/wp-content/uploads/2022/11/Flutter-1024x751.png"/></a><br>
 
 ### Visit Me On
-- <a href="https://www.linkedin.com/in/agung-aryantino-4b3802179/"></a>
-- <a href="https://www.instagram.com/agngaryntno/"></a>
+- <a href="https://www.linkedin.com/in/agung-aryantino-4b3802179/">Linkedln</a>
+- <a href="https://www.instagram.com/agngaryntno/">Instagram</a>
